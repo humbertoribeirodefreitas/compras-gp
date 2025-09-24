@@ -1,4 +1,8 @@
 // ===== CONFIGURAÇÕES E CONSTANTES =====
+
+
+api_key = "AIzaSyBHmOjcg1qsC0QeqNr7tVx-mjf2VEOUzps"
+
 const CONFIG = {
   maxQuantity: 10,
   minQuantity: 1,
